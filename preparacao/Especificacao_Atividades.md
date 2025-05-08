@@ -2,8 +2,7 @@
 
 Durante nossa primeira atividade da matéria **PEX** do curso de **Engenharia de Software**, foi proposta a busca por como foi feita a **curricularização da extensão** em universidades brasileiras. Durante nossa pesquisa sobre como a curricularização foi implementada na **UTFPR**, nos deparamos com o projeto de extensão **Code and Ladies**, que nos serviu de ✨inspiração✨ durante a decisão do tema do projeto. Além disso, durante uma pesquisa mais aprofundada em projetos de extensão focados no público feminino na área de **Tecnologia da Informação 💻**, encontramos outros projetos no mesmo estilo.
 
-### 🎯 Decisão do tema:
-**Inspirações:**
+### 🎯 Inspirações do tema:
 - 👩‍💻 Code and Ladies - UTFPR  
 - 👩‍💻 Elas Computação - UFCG  
 - 👩‍💻 BIT Rosa - IFRS  
